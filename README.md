@@ -1,5 +1,11 @@
 # Real-Time MNST Writting and Recognition Website
 
+## Sample Image:
+
+<div style="text-align: center;">
+  <img src="demo_images/example_screen.png" width="300">
+</div>
+
 ## How to set up:
 
 Run the React Front End (require installation of npm):
@@ -19,9 +25,9 @@ python manage.py runserver
 
 If both run successfully without any error, then simply go to your [local address](http://127.0.0.1:8000/) and you should be able to see this screen:
 
-<center>
-    <img src="demo_images/start_screen.png" width="300">
-</center>
+<div style="text-align: center;">
+  <img src="demo_images/start_screen.png" width="300">
+</div>
 
 Inside the black box you can write by holding your mouse with left click around. After you are done drawing your number you can see if the neural network predict it accurately.
 
