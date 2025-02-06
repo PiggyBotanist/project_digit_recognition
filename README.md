@@ -2,7 +2,7 @@
 
 ## Sample Image:
 
-<div style="text-align: center;">
+<div align="center">
   <img src="demo_images/example_screen.png" width="300">
 </div>
 
@@ -25,7 +25,7 @@ python manage.py runserver
 
 If both run successfully without any error, then simply go to your [local address](http://127.0.0.1:8000/) and you should be able to see this screen:
 
-<div style="text-align: center;">
+<div align="center">
   <img src="demo_images/start_screen.png" width="300">
 </div>
 
